@@ -1,4 +1,4 @@
-# JQuery Mobile - My Web Site
+# JQuery Mobile - My Web Application
 
 # Ekran Görüntüsü :
 
