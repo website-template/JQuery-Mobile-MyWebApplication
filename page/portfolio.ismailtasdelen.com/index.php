@@ -311,8 +311,6 @@ ga('send', 'pageview');
 <img src="img/portfolio/shodan.png" alt="" data-toggle="tooltip" data-placement="top" title="Exploit & Malware">
 <img src="img/portfolio/0day.today.png" alt="" data-toggle="tooltip" data-placement="top" title="Exploit & Malware">
 <img src="img/portfolio/packetstorm.png" alt="" data-toggle="tooltip" data-placement="top" title="Exploit & Malware">
-
-
                     </li>
                 </ul>
             </div>
